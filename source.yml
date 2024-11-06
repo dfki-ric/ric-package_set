@@ -1,0 +1,6 @@
+name: ric
+
+imports:
+    - github: rock-core/package_set
+
+
