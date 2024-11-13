@@ -4,6 +4,5 @@
 
 cmake_package 'planning/ugv_nav4d'
 cmake_package 'planning/traversability_generator3d'
-
-
+cmake_package 'planning/sbpl_spline_primitives'
 
