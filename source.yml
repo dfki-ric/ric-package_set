@@ -3,4 +3,18 @@ name: ric
 imports:
     - github: rock-core/package_set
 
+######################
+# Planning
+######################
 
+    - planning/ugv_nav4d:
+      github: dfki-ric/ugv_nav4d
+      branch: main
+
+    - planning/orogen/ugv_nav4d:
+      github: dfki-ric/orogen-ugv_nav4d
+      branch: main
+
+    - planning/traversability_generator3d:
+      github: dfki-ric/traversability_generator3d
+      branch: main
