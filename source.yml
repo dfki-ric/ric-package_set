@@ -1,8 +1,10 @@
-name: ric
+name: dfki.ric
 
 imports:
-    - github: rock-core/package_set
+    - github: rock-core/rock-package_set
     - github: rock-cpp/package_set
+    - github: rock-learning/package_set
+    - github: rock-simulation/package_set
     - github: envire/envire-package_set
 
 
