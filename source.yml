@@ -1,4 +1,4 @@
-name: ric
+name: dfki.ric
 
 imports:
     - github: rock-core/package_set
