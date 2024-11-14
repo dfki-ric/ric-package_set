@@ -24,6 +24,3 @@ version_control:
       github: dfki-ric/traversability_generator3d
       branch: main
 
-    - planning/sbpl_spline_primitives:
-      github: rock-planning/planning-sbpl_spline_primitives
-
