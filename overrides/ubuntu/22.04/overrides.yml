@@ -1,3 +1,12 @@
 - planning/sbpl_spline_primitives:
   github: pierrewillenbrockdfki/planning-sbpl_spline_primitives
   branch: feature/qt4-qt5
+
+- planning/ugv_nav4d:
+  branch: feature/qt4-qt5
+
+- planning/traversability3d:
+  branch: feature/qt4-qt5
+
+- planning/orogen/ugv_nav4d:
+  branch: use-vzk3d_dbg-commands
