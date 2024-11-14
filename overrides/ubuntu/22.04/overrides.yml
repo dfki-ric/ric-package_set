@@ -1,0 +1,3 @@
+- planning/sbpl_spline_primitives:
+  github: pierrewillenbrockdfki/planning-sbpl_spline_primitives
+  branch: feature/qt4-qt5
